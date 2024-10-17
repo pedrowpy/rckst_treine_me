@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Flutuar é um projeto para estudo e desenvolvimento de habilidades técnicas.
+O Treine me é um projeto para estudo e desenvolvimento de habilidades técnicas.
 
 ## :memo: Licença
 
